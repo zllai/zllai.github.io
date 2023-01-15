@@ -1,0 +1,33 @@
+title: Ziliang LAI
+logo: /assets/img/photo.png
+email: zllai@cse.cuhk.edu.hk
+description: 赖子良
+show_downloads: false
+google_analytics: UA-108144808-1
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+remote_theme: BDHU/minimalist
+# You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
+sidebar:
+  - name: Google Scholar
+    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
+    link: https://scholar.google.com/citations?user=aGvgX0YAAAAJ
+  - name: DBLP
+    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M21.3 14.58l-2.45-9.16s-.15-.59-.72-.33l-5.6 2.6.86 3.2 1.09 4.08.01.06c.05.47-.41.79-.41.79l-1.88.87.5 1.89.04.1c.07.17.28.6.81.91l6.95 4.27s.68.41.52-.17l-1.98-7.4 1.86-.86s.56-.26.4-.85zM13.76 14.67l-.01-.06-1.13-4.22-.66-2.45-.67-2.49v-.04s-.16-.59-.84-1L3.5.14s-.68-.41-.52.17l1.99 7.42-1.87.87s-.56.26-.4.85l2.45 9.16s.16.59.72.33l6.17-2.87 1.3-.61s.52-.24.42-.79z"/></svg>
+    link: https://dblp.org/pid/227/3113.html
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/zllai
+  - name: living with my cats
+    icon: <i class="fa-solid hand-peace"></i><i class="fa-solid fa-cat"></i>
+    link: /cat
+
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+# When running locally, we run into the following error —
+# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+# adding this avoids it
+github: [metadata]
