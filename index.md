@@ -10,6 +10,10 @@ In particular, I'm interested in designing efficient and practical protocols inc
 
 ## :book: Publications
 
+- #### Knock Out 2PC with Practicality Intact: a High-performance and General Distributed Transaction Protocol ![](https://img.shields.io/badge/ICDE_2023-blue)
+
+  ***Ziliang Lai**, Hua Fan, Wenchao Zhou, Zhanfeng Ma, Xiang Peng, Feifei Li, Eric Lo*
+
 - #### When Private Blockchain Meets Deterministic Database ![](https://img.shields.io/badge/SIGMOD_2023-blue)
 
   ***Ziliang Lai**, Chris Liu, Eric Lo*
