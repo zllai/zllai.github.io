@@ -14,8 +14,6 @@ I am a Senior Software Engineer at Huawei's Gauss Data Lab, building AI data inf
 
 - Project: AI-centric Unstructured Data Processing Engine
 
-- Role: System Engineer (Tech Lead of an 8-person team)
-
 - Outcome: The system has been battle-tested in production with a cluster over 1000 Ascend NPUs (Huawei's GPU); significantly reduced computational resource costs and time-to-train for internal LLMs up to 7x.
 
 - Technical Execution:
