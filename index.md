@@ -2,11 +2,35 @@
 layout: default
 ---
 
+I am a Senior Software Engineer at Huawei's Gauss Data Lab, building AI data infrastructure with a focus on unstructured data processing and Agents for data analytics. Our system is now powering LLM data pipelines for Huawei's AI assistant Xiaoyi and is now a key solution for external customers. I hold a Ph.D. in Computer Science from CUHK, where my research centered on distributed databases.
+
+## :necktie: Experiences
+
+<div style="display: flex; align-items: center;">
+  <h4 style="margin: 1em 0em;">Senior Software Engineer @Huawei Gauss Data Lab</h4>
+  <span style="margin-left: auto;">Dec 2023 until now</span>
+</div>
 
 
-I am a Ph.D. candidate in Computer Science and Engineering Department of the Chinese University of Hong Kong, supervised by Prof. [Eric Lo](https://www.cse.cuhk.edu.hk/~ericlo/), expected to graduate in 2023. 
-My research mainly focuses on transaction processing in distributed databases. 
-In particular, I'm interested in designing efficient and practical protocols including concurrency control, atomic commit, and replication protocols for typical DBs or blockchains. 
+- Project: next-gen unstructured data processing platform
+
+- Role: Tech Lead 
+
+- Outcome: Significantly reduced computational resource costs and time-to-train for internal LLMs up to 7x.
+
+- Technical Execution:
+
+  - Solution design: architected the core processing engine, featuring a user-friendly Python API, a high-performance C++ backend, and a serverless foundation
+  - Optimization: developed dynamic scheduling for heterogeneous hardware (CPU/Ascend NPU) and optimized offline batch LLM inference
+  - Ecosystem & Integration: integrated with Iceberg, Lance and Faiss for storage and indexing; implemented MCP to enable agentic workflows 
+  - Research & Exploration: explored natural language-based semantic operators and an automatic pipeline orchestration agent
+
+<div style="display: flex; align-items: center;">
+  <h4 style="margin: 1em 0em;">Research Inten &Alibaba</h4>
+  <span style="margin-left: auto;">Dec 2023 until now</span>
+</div>
+
+
 
 ## :book: Publications
 
