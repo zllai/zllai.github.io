@@ -26,7 +26,7 @@ I am a Senior Software Engineer at Huawei's Gauss Data Lab, building AI data inf
 
 <div style="display: flex; align-items: center;">
   <h4 style="margin: 1em 0em;">Research Inten @Alibaba DAMO Academy</h4>
-  <span style="margin-left: auto;">Dec 2023 until now</span>
+  <span style="margin-left: auto;">Sept 2021 - Jun 2022</span>
 </div>
 
 - Research: General, strongly consistent, and high-performance distributed transaction protocols. 
